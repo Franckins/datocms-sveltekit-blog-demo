@@ -39,7 +39,7 @@
 	"type": "module",
 	"dependencies": {
 		"@datocms/svelte": "^0.0.1",
-		"date-fns": "^2.29.3",
+		"date-fns": "^2.30.0",
 		"datocms-listen": "^0.1.14",
 		"datocms-structured-text-utils": "^2.0.4",
 		"universal-base64": "^2.1.0"
